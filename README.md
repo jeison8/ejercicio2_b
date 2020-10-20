@@ -17,8 +17,5 @@
 10. Ejecuta `php artisan migrate`
 11. Ejecuta `php artisan db:seed`
 13. Abre la aplicación en el navegador
-14. Accede a `/login` para ingresar a la administración
-    * Email: admin@admin.com
-    * Password: 12345678
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
